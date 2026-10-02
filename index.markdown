@@ -1,6 +1,6 @@
 ---
 layout: single
-
+author_profile: false
 ---
 
 # Angelin Monica Selvaraj
