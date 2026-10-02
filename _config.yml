@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Angelin Selvaraj - Documentation Specialist
+title: Angelin Selvaraj
 
 description: >- # this means to ignore newlines until "baseurl:"
   Senior Technical Writer & Courseware Developer | Private 5G Expert | CBRS & Enterprise Networking | Technical Documentation, White Papers & Training | Computer Science Engineer
@@ -28,9 +28,24 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anglnmonica
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+author:
+  name: "Angelin Monica Selvaraj"
+  bio: "Senior Technical Writer & Courseware Developer specializing in private 5G, wireless, and networking."
+  avatar: "/assets/images/profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "/about/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/angelin-monica-selvaraj-683b1a216/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

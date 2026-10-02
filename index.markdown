@@ -1,6 +1,17 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: single
 
-layout: home
 ---
+
+# Angelin Monica Selvaraj
+
+**Senior Technical Writer & Courseware Developer** specializing in
+private 5G, wireless, and networking technologies — LTE, 5G, O-RAN, and
+CBRS private network solutions.
+
+I translate between the people who build products and the people who buy them, and I've been an engineer and a writer, so I speak both languages.
+
+
+[See my work →](/portfolio/){: style="margin-right: 16px;"}
+[About me →](/about/){: style="margin-right: 16px;"}
+[Resume →](/resume/)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Build a Technical Writer Portfolio with GitHub Pages and Jekyll"
 date:   2026-10-01
 ---
