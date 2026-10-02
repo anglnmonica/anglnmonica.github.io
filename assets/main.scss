@@ -1,0 +1,16 @@
+---
+---
+
+@import "minima";
+
+// Custom accent color — signal blue, fits a wireless/5G theme
+$link-base-color: #2d9cdb;
+$brand-color: #2d9cdb;
+
+a {
+  color: $link-base-color;
+}
+
+.site-title {
+  color: $link-base-color !important;
+}
